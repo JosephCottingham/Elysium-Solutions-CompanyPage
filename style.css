@@ -1,0 +1,26 @@
+.navbar {
+    padding: 1.5em;
+    font-size: large;
+}
+
+.web-header {
+    background-image: url("header_background_3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:200px;
+    padding-bottom:200px;
+    color: antiquewhite;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+
+.cover {
+    object-fit: cover;
+    width: 500px;
+    height: 500px;
+  }
+
+.left {
+    padding-right: 100px;
+}
